@@ -1,2 +1,4 @@
-# np-dev-hidden
-np-dev, Hidden script from NoPixel 3.0
+# np-dev(hidden)
+
+### **Join [Discord](https://discord.gg/nCqzVd3X3K) for more free scripts!**
+### Credits: **`Skull#5065, Loxr.#3303`**
